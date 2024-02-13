@@ -1,8 +1,8 @@
 Hello🦄
 
-最近GitHubを使っていなかったのですが、学習記録や備忘録を残そうと思い始めました。
+GitHubを使っていなかったのですが、使おうと思い始めました。
 
-JavaScript/Pythonを主に使っています。
+Javascript/React/Typescript/Pythonを主に使っています。
 
 
 <!---
